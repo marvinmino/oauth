@@ -1,0 +1,6 @@
+okta:
+  oauth2:
+    clientId: 0oa6s5zklazshlFfM5d7
+    clientSecret: rkhNen5g6XYXQ-KvtK3s5Tnfm7sXyg4TOm0iEezp
+    issuer: https://dev-20895092.okta.com/oauth2/default
+    audience: http://localhost:8081
